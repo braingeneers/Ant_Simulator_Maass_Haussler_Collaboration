@@ -1,0 +1,157 @@
+absl-py==0.11.0
+argon2-cffi==20.1.0
+astunparse==1.6.3
+async-generator==1.10
+attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach==3.2.1
+bokeh @ file:///tmp/build/80754af9/bokeh_1614700623796/work
+box2d-py==2.3.8
+brotlipy==0.7.0
+cachetools==4.2.0
+cairocffi==1.2.0
+CairoSVG==2.5.1
+certifi==2020.12.5
+cffi==1.14.3
+chardet @ file:///tmp/build/80754af9/chardet_1607706746162/work
+chord==0.13.0
+cloudpickle==1.6.0
+colorcet @ file:///tmp/build/80754af9/colorcet_1611168489822/work
+colour==0.1.5
+cryptography @ file:///tmp/build/80754af9/cryptography_1616769286105/work
+cssselect2==0.4.1
+cycler==0.10.0
+decorator @ file:///tmp/build/80754af9/decorator_1617624478095/work
+defusedxml==0.6.0
+dm-tree==0.1.5
+dPCA==1.0.5
+entrypoints==0.3
+flatbuffers==1.12
+future==0.18.2
+gast==0.4.0
+glcontext==2.3.3
+google-auth==1.24.0
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+grpcio==1.34.0
+gym==0.17.3
+h5py==3.1.0
+holoviews @ file:///tmp/build/80754af9/holoviews_1614710063969/work
+html5lib==1.1
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1615900442896/work
+ipykernel==5.3.4
+ipython @ file:///tmp/build/80754af9/ipython_1617120885885/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.5.1
+jedi==0.17.2
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+joblib==1.0.0
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client==6.1.7
+jupyter-console==6.2.0
+jupyter-core==4.6.3
+jupyterlab-pygments==0.1.1
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282420641/work
+llvmlite==0.36.0
+ManimPango==0.2.3
+mapbox-earcut==0.12.10
+Markdown @ file:///tmp/build/80754af9/markdown_1614363528767/work
+MarkupSafe==1.1.1
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+moderngl==5.6.4
+moderngl-window==2.3.0
+mpmath==1.2.1
+multipledispatch==0.6.0
+nbclient==0.5.0
+nbconvert==6.0.4
+nbformat==5.0.7
+nest-asyncio==1.4.0
+notebook==6.1.4
+numba==0.53.1
+numexpr==2.7.3
+numpy==1.19.5
+oauthlib==3.1.0
+olefile==0.46
+opt-einsum==3.3.0
+packaging==20.4
+pandas==1.2.3
+pandocfilters==1.4.2
+panel @ file:///tmp/build/80754af9/panel_1615894117686/work
+param @ file:///tmp/build/80754af9/param_1610132696605/work
+parso==0.7.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==7.2.0
+progressbar==2.5
+prometheus-client==0.8.0
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+protobuf==3.14.0
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pybullet==3.0.8
+-e git+https://github.com/benelot/pybullet-gym.git@b70643f6ee86f763a36344e72989b5fc34b65e07#egg=pybulletgym
+pycparser==2.20
+pyct @ file:///tmp/build/80754af9/pyct_1600458283921/work
+pydub==0.25.1
+pyglet==1.5.0
+Pygments @ file:///tmp/build/80754af9/pygments_1615143339740/work
+PyOpenGL==3.1.5
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PyPDF2==1.26.0
+Pyphen==0.10.0
+pyrr==0.10.3
+pyrsistent==0.17.3
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+pyviz-comms @ file:///tmp/build/80754af9/pyviz_comms_1610136480588/work
+PyYAML==5.4.1
+pyzmq==19.0.2
+qtconsole==4.7.7
+QtPy==1.9.0
+requests @ file:///tmp/build/80754af9/requests_1608241421344/work
+requests-oauthlib==1.3.0
+rsa==4.6
+scikit-learn==0.24.1
+scipy==1.6.0
+screeninfo==0.6.7
+seaborn==0.11.1
+Send2Trash==1.5.0
+SimManager @ https://github.com/IGITUGraz/SimManager/archive/v0.8.3.zip
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+sklearn==0.0
+sympy==1.8
+tb-nightly==2.5.0a20210109
+tensorboard-plugin-wit==1.7.0
+tensorflow-addons==0.12.1
+tensorflow-probability==0.12.1
+termcolor==1.1.0
+terminado==0.9.1
+testpath==0.4.4
+tf-estimator-nightly==2.5.0.dev2021010901
+tf-nightly-gpu==2.5.0.dev20210109
+threadpoolctl==2.1.0
+tinycss2==1.1.0
+tornado==6.0.4
+tqdm @ file:///tmp/build/80754af9/tqdm_1615925068909/work
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+typeguard==2.11.1
+typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1615837158687/work
+validators==0.18.2
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+WeasyPrint==52.2
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wrapt==1.12.1
+zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
